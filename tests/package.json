@@ -1,0 +1,17 @@
+{
+  "name": "selenium-tests",
+  "version": "1.0.0",
+  "description": "Selenium E2E tests for task management system",
+  "type": "module",
+  "scripts": {
+    "test:e2e": "node tests/runTests.js",
+    "test:login": "node tests/login.test.js",
+    "test:dashboard": "node tests/dashboard.test.js",
+    "test:kanban": "node tests/kanban.test.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.16.0",
+    "chromedriver": "^120.0.0"
+  },
+  "devDependencies": {}
+}
