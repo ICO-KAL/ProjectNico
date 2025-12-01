@@ -459,8 +459,5 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más infor
 
 <div align="center">
 
-Hecho con ️ usando React, Node.js y mucho 
-
-⭐ ¡Dale una estrella si te gusta el proyecto!
-
+Hecho con ️ usando React, Node.js y mucho  
 </div>
